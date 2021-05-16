@@ -1,0 +1,25 @@
+{
+  "name": "receiptify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "receiptify": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-cookiejar-support": "^1.0.1",
+    "chalk": "^4.1.1",
+    "clui": "^0.3.6",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0",
+    "node-html-parser": "^3.3.0",
+    "tough-cookie": "^4.0.0"
+  }
+}
