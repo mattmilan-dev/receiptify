@@ -10,7 +10,7 @@ provide to send the code to. This fills out all good reviews as to limit the que
 
 Start by runnning:
 ```
-npm install -g <THIS_REPO_URL>
+npm install -g https://github.com/mattmilan-dev/receiptify
 ```
 
 Use by running:
